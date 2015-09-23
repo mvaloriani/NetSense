@@ -1,0 +1,33 @@
+﻿<Window x:Class="GreenScreen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GreenScreen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1400" d:DataContext="{d:DesignData /SampleData/MainViewModelSampleData.xaml}" >
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="468*"/>
+            <RowDefinition Height="301*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+
+
+        <Image x:Name="Background" Grid.Column="0" Source="banner3.jpg"  Grid.ColumnSpan="2" Grid.RowSpan="2"   />
+        <Image x:Name="SegImage" Grid.Column="0" Source="{Binding Manager.SegBitmapSource}" Grid.ColumnSpan="2" Grid.RowSpan="2"  />
+
+
+        <Image x:Name="ColorImage" Source="{Binding Manager.ColorBitmapSource, Mode=OneWay}" Grid.Column="0" Grid.Row="1" VerticalAlignment="Bottom" HorizontalAlignment="Left" />
+
+
+    </Grid>
+
+
+
+</Window>

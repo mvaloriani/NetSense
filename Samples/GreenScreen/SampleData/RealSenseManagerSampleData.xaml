@@ -1,0 +1,449 @@
+﻿<Core:RealSenseManager xmlns:Core="clr-namespace:RealSenseWrapper.Core;assembly=RealSenseWrapper.Core" xmlns:Drawing="clr-namespace:System.Drawing;assembly=System.Drawing" xmlns:System="clr-namespace:System;assembly=mscorlib" xmlns:Imaging="clr-namespace:System.Drawing.Imaging;assembly=System.Drawing" xmlns:Model="clr-namespace:RealSenseWrapper.Core.Model;assembly=RealSenseWrapper.Core">
+	<Core:RealSenseManager.ColorBitmap>
+		<Drawing:Bitmap Flags="37" Height="37" PixelFormat="Undefined" Width="72">
+			<Drawing:Bitmap.FrameDimensionsList>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+			</Drawing:Bitmap.FrameDimensionsList>
+			<Drawing:Bitmap.HorizontalResolution>
+				<System:Single/>
+			</Drawing:Bitmap.HorizontalResolution>
+			<Drawing:Bitmap.PropertyIdList>
+				<System:Int32>44</System:Int32>
+				<System:Int32>31</System:Int32>
+				<System:Int32>43</System:Int32>
+				<System:Int32>39</System:Int32>
+				<System:Int32>12</System:Int32>
+				<System:Int32>96</System:Int32>
+				<System:Int32>19</System:Int32>
+				<System:Int32>12</System:Int32>
+				<System:Int32>43</System:Int32>
+				<System:Int32>82</System:Int32>
+			</Drawing:Bitmap.PropertyIdList>
+			<Drawing:Bitmap.Palette>
+				<Imaging:ColorPalette Flags="13">
+					<Imaging:ColorPalette.Entries>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Class vestibulum nam"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Maecenas cras curabitur curae duis"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Aliquam sed"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Integer quisque aenean dis"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Phasellus est"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Hac adipiscing vivamus consequat convallis"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Nunc leo aliquam"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Amet mauris"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Nullam aptent auctor dignissim"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Ante donec"/>
+					</Imaging:ColorPalette.Entries>
+				</Imaging:ColorPalette>
+			</Drawing:Bitmap.Palette>
+			<Drawing:Bitmap.PhysicalDimension>
+				<Drawing:SizeF IsEmpty="True">
+					<Drawing:SizeF.Height>
+						<System:Single/>
+					</Drawing:SizeF.Height>
+					<Drawing:SizeF.Width>
+						<System:Single/>
+					</Drawing:SizeF.Width>
+				</Drawing:SizeF>
+			</Drawing:Bitmap.PhysicalDimension>
+			<Drawing:Bitmap.PropertyItems>
+				<Imaging:PropertyItem Id="34" Len="67">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="50" Len="16">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="57" Len="68">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="78" Len="93">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="96" Len="19">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="76" Len="22">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="92" Len="28">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="49" Len="80">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="18" Len="83">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="50" Len="29">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+			</Drawing:Bitmap.PropertyItems>
+			<Drawing:Bitmap.RawFormat>
+				<Imaging:ImageFormat>
+					<Imaging:ImageFormat.Bmp>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Bmp>
+					<Imaging:ImageFormat.Exif>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Exif>
+					<Imaging:ImageFormat.Emf>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Emf>
+					<Imaging:ImageFormat.Gif>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Gif>
+					<Imaging:ImageFormat.Guid>
+						<System:Guid/>
+					</Imaging:ImageFormat.Guid>
+					<Imaging:ImageFormat.Icon>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Icon>
+					<Imaging:ImageFormat.Jpeg>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Jpeg>
+					<Imaging:ImageFormat.MemoryBmp>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.MemoryBmp>
+					<Imaging:ImageFormat.Png>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Png>
+					<Imaging:ImageFormat.Tiff>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Tiff>
+					<Imaging:ImageFormat.Wmf>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Wmf>
+				</Imaging:ImageFormat>
+			</Drawing:Bitmap.RawFormat>
+			<Drawing:Bitmap.Size>
+				<Drawing:Size Height="37" IsEmpty="False" Width="37"/>
+			</Drawing:Bitmap.Size>
+			<Drawing:Bitmap.VerticalResolution>
+				<System:Single/>
+			</Drawing:Bitmap.VerticalResolution>
+		</Drawing:Bitmap>
+	</Core:RealSenseManager.ColorBitmap>
+	<Core:RealSenseManager.HandCursorPosition>
+		<Model:HandCursorPosition/>
+	</Core:RealSenseManager.HandCursorPosition>
+	<Core:RealSenseManager.SegBitmap>
+		<Drawing:Bitmap Flags="87" Height="96" PixelFormat="Format32bppArgb" Width="25">
+			<Drawing:Bitmap.FrameDimensionsList>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+				<System:Guid/>
+			</Drawing:Bitmap.FrameDimensionsList>
+			<Drawing:Bitmap.HorizontalResolution>
+				<System:Single/>
+			</Drawing:Bitmap.HorizontalResolution>
+			<Drawing:Bitmap.PropertyIdList>
+				<System:Int32>25</System:Int32>
+				<System:Int32>71</System:Int32>
+				<System:Int32>78</System:Int32>
+				<System:Int32>51</System:Int32>
+				<System:Int32>92</System:Int32>
+				<System:Int32>86</System:Int32>
+				<System:Int32>33</System:Int32>
+				<System:Int32>64</System:Int32>
+				<System:Int32>32</System:Int32>
+				<System:Int32>50</System:Int32>
+			</Drawing:Bitmap.PropertyIdList>
+			<Drawing:Bitmap.Palette>
+				<Imaging:ColorPalette Flags="86">
+					<Imaging:ColorPalette.Entries>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Parturient elementum arcu etiam"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Praesent congue aliquet mus"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Cursus dictum fusce"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Vestibulum facilisis"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Diam blandit vestibulum lectus fermentum"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Libero lorem"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Nec non"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Per eget fringilla ligula commodo"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Habitasse morbi adipiscing hendrerit"/>
+						<Drawing:Color IsKnownColor="True" IsNamedColor="True" IsSystemColor="False" IsEmpty="False" Name="Himenaeos parturient elit conubia cubilia"/>
+					</Imaging:ColorPalette.Entries>
+				</Imaging:ColorPalette>
+			</Drawing:Bitmap.Palette>
+			<Drawing:Bitmap.PhysicalDimension>
+				<Drawing:SizeF IsEmpty="True">
+					<Drawing:SizeF.Height>
+						<System:Single/>
+					</Drawing:SizeF.Height>
+					<Drawing:SizeF.Width>
+						<System:Single/>
+					</Drawing:SizeF.Width>
+				</Drawing:SizeF>
+			</Drawing:Bitmap.PhysicalDimension>
+			<Drawing:Bitmap.PropertyItems>
+				<Imaging:PropertyItem Id="68" Len="68">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="73" Len="69">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="59" Len="78">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="41" Len="27">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="36" Len="32">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="38" Len="24">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="89" Len="32">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="87" Len="35">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="61" Len="23">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+				<Imaging:PropertyItem Id="81" Len="30">
+					<Imaging:PropertyItem.Type>
+						<System:Int16/>
+					</Imaging:PropertyItem.Type>
+					<Imaging:PropertyItem.Value>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+						<System:Byte/>
+					</Imaging:PropertyItem.Value>
+				</Imaging:PropertyItem>
+			</Drawing:Bitmap.PropertyItems>
+			<Drawing:Bitmap.RawFormat>
+				<Imaging:ImageFormat>
+					<Imaging:ImageFormat.Bmp>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Bmp>
+					<Imaging:ImageFormat.Exif>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Exif>
+					<Imaging:ImageFormat.Emf>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Emf>
+					<Imaging:ImageFormat.Gif>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Gif>
+					<Imaging:ImageFormat.Guid>
+						<System:Guid/>
+					</Imaging:ImageFormat.Guid>
+					<Imaging:ImageFormat.Icon>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Icon>
+					<Imaging:ImageFormat.Jpeg>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Jpeg>
+					<Imaging:ImageFormat.MemoryBmp>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.MemoryBmp>
+					<Imaging:ImageFormat.Png>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Png>
+					<Imaging:ImageFormat.Tiff>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Tiff>
+					<Imaging:ImageFormat.Wmf>
+						<Imaging:ImageFormat/>
+					</Imaging:ImageFormat.Wmf>
+				</Imaging:ImageFormat>
+			</Drawing:Bitmap.RawFormat>
+			<Drawing:Bitmap.Size>
+				<Drawing:Size Height="14" IsEmpty="False" Width="11"/>
+			</Drawing:Bitmap.Size>
+			<Drawing:Bitmap.VerticalResolution>
+				<System:Single/>
+			</Drawing:Bitmap.VerticalResolution>
+		</Drawing:Bitmap>
+	</Core:RealSenseManager.SegBitmap>
+</Core:RealSenseManager>

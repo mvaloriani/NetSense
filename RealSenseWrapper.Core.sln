@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealSenseWrapper.Core", "RealSenseWrapper.Core\RealSenseWrapper.Core.csproj", "{2403E310-C2B2-446B-99C5-BB47B8AC7349}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{A883251E-B4D1-432F-9745-C148CA1D613E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestures", "Samples\Gestures\Gestures.csproj", "{9D7B4F73-910F-4EF6-9977-282C9CA5C7B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenScreen", "Samples\GreenScreen\GreenScreen.csproj", "{D8DF55B0-C4EF-48B1-9DA6-D3AEE8468C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2403E310-C2B2-446B-99C5-BB47B8AC7349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2403E310-C2B2-446B-99C5-BB47B8AC7349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2403E310-C2B2-446B-99C5-BB47B8AC7349}.Debug|x86.ActiveCfg = Debug|x86
+		{2403E310-C2B2-446B-99C5-BB47B8AC7349}.Debug|x86.Build.0 = Debug|x86
+		{2403E310-C2B2-446B-99C5-BB47B8AC7349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2403E310-C2B2-446B-99C5-BB47B8AC7349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2403E310-C2B2-446B-99C5-BB47B8AC7349}.Release|x86.ActiveCfg = Release|x86
+		{2403E310-C2B2-446B-99C5-BB47B8AC7349}.Release|x86.Build.0 = Release|x86
+		{9D7B4F73-910F-4EF6-9977-282C9CA5C7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7B4F73-910F-4EF6-9977-282C9CA5C7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7B4F73-910F-4EF6-9977-282C9CA5C7B3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9D7B4F73-910F-4EF6-9977-282C9CA5C7B3}.Debug|x86.Build.0 = Debug|Any CPU
+		{9D7B4F73-910F-4EF6-9977-282C9CA5C7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7B4F73-910F-4EF6-9977-282C9CA5C7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D7B4F73-910F-4EF6-9977-282C9CA5C7B3}.Release|x86.ActiveCfg = Release|Any CPU
+		{9D7B4F73-910F-4EF6-9977-282C9CA5C7B3}.Release|x86.Build.0 = Release|Any CPU
+		{D8DF55B0-C4EF-48B1-9DA6-D3AEE8468C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DF55B0-C4EF-48B1-9DA6-D3AEE8468C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DF55B0-C4EF-48B1-9DA6-D3AEE8468C70}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D8DF55B0-C4EF-48B1-9DA6-D3AEE8468C70}.Debug|x86.Build.0 = Debug|Any CPU
+		{D8DF55B0-C4EF-48B1-9DA6-D3AEE8468C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DF55B0-C4EF-48B1-9DA6-D3AEE8468C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8DF55B0-C4EF-48B1-9DA6-D3AEE8468C70}.Release|x86.ActiveCfg = Release|Any CPU
+		{D8DF55B0-C4EF-48B1-9DA6-D3AEE8468C70}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9D7B4F73-910F-4EF6-9977-282C9CA5C7B3} = {A883251E-B4D1-432F-9745-C148CA1D613E}
+		{D8DF55B0-C4EF-48B1-9DA6-D3AEE8468C70} = {A883251E-B4D1-432F-9745-C148CA1D613E}
+	EndGlobalSection
+EndGlobal

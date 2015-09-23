@@ -1,0 +1,128 @@
+﻿<Gestures:MainViewModel xmlns:Gestures="clr-namespace:Gestures" xmlns:Core="clr-namespace:RealSenseWrapper.Core;assembly=RealSenseWrapper.Core" xmlns:Drawing="clr-namespace:System.Drawing;assembly=System.Drawing" xmlns:System="clr-namespace:System;assembly=mscorlib" xmlns:Imaging="clr-namespace:System.Drawing.Imaging;assembly=System.Drawing" xmlns:Model="clr-namespace:RealSenseWrapper.Core.Model;assembly=RealSenseWrapper.Core" Message="Maecenas praesent class curae">
+	<Gestures:MainViewModel.Manager>
+		<Core:RealSenseManager>
+			<Core:RealSenseManager.ColorBitmap>
+				<Drawing:Bitmap Flags="38" Height="13" PixelFormat="Format16bppGrayScale" Width="41">
+					<Drawing:Bitmap.FrameDimensionsList>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+					</Drawing:Bitmap.FrameDimensionsList>
+					<Drawing:Bitmap.HorizontalResolution>
+						<System:Single/>
+					</Drawing:Bitmap.HorizontalResolution>
+					<Drawing:Bitmap.PropertyIdList>
+						<System:Int32>91</System:Int32>
+						<System:Int32>53</System:Int32>
+						<System:Int32>26</System:Int32>
+						<System:Int32>48</System:Int32>
+						<System:Int32>20</System:Int32>
+						<System:Int32>44</System:Int32>
+						<System:Int32>19</System:Int32>
+						<System:Int32>95</System:Int32>
+						<System:Int32>24</System:Int32>
+						<System:Int32>76</System:Int32>
+					</Drawing:Bitmap.PropertyIdList>
+					<Drawing:Bitmap.Palette>
+						<Imaging:ColorPalette Flags="89"/>
+					</Drawing:Bitmap.Palette>
+					<Drawing:Bitmap.PhysicalDimension>
+						<Drawing:SizeF IsEmpty="True"/>
+					</Drawing:Bitmap.PhysicalDimension>
+					<Drawing:Bitmap.PropertyItems>
+						<Imaging:PropertyItem Id="82" Len="92"/>
+						<Imaging:PropertyItem Id="41" Len="84"/>
+						<Imaging:PropertyItem Id="69" Len="97"/>
+						<Imaging:PropertyItem Id="18" Len="30"/>
+						<Imaging:PropertyItem Id="16" Len="75"/>
+						<Imaging:PropertyItem Id="59" Len="42"/>
+						<Imaging:PropertyItem Id="72" Len="26"/>
+						<Imaging:PropertyItem Id="64" Len="74"/>
+						<Imaging:PropertyItem Id="10" Len="48"/>
+						<Imaging:PropertyItem Id="76" Len="51"/>
+					</Drawing:Bitmap.PropertyItems>
+					<Drawing:Bitmap.RawFormat>
+						<Imaging:ImageFormat/>
+					</Drawing:Bitmap.RawFormat>
+					<Drawing:Bitmap.Size>
+						<Drawing:Size Height="60" IsEmpty="False" Width="58"/>
+					</Drawing:Bitmap.Size>
+					<Drawing:Bitmap.VerticalResolution>
+						<System:Single/>
+					</Drawing:Bitmap.VerticalResolution>
+				</Drawing:Bitmap>
+			</Core:RealSenseManager.ColorBitmap>
+			<Core:RealSenseManager.HandCursorPosition>
+				<Model:HandCursorPosition/>
+			</Core:RealSenseManager.HandCursorPosition>
+			<Core:RealSenseManager.SegBitmap>
+				<Drawing:Bitmap Flags="46" Height="75" PixelFormat="Format1bppIndexed" Width="85">
+					<Drawing:Bitmap.FrameDimensionsList>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+					</Drawing:Bitmap.FrameDimensionsList>
+					<Drawing:Bitmap.HorizontalResolution>
+						<System:Single/>
+					</Drawing:Bitmap.HorizontalResolution>
+					<Drawing:Bitmap.PropertyIdList>
+						<System:Int32>60</System:Int32>
+						<System:Int32>98</System:Int32>
+						<System:Int32>71</System:Int32>
+						<System:Int32>34</System:Int32>
+						<System:Int32>92</System:Int32>
+						<System:Int32>19</System:Int32>
+						<System:Int32>39</System:Int32>
+						<System:Int32>67</System:Int32>
+						<System:Int32>97</System:Int32>
+						<System:Int32>41</System:Int32>
+					</Drawing:Bitmap.PropertyIdList>
+					<Drawing:Bitmap.Palette>
+						<Imaging:ColorPalette Flags="86"/>
+					</Drawing:Bitmap.Palette>
+					<Drawing:Bitmap.PhysicalDimension>
+						<Drawing:SizeF IsEmpty="True"/>
+					</Drawing:Bitmap.PhysicalDimension>
+					<Drawing:Bitmap.PropertyItems>
+						<Imaging:PropertyItem Id="37" Len="98"/>
+						<Imaging:PropertyItem Id="58" Len="60"/>
+						<Imaging:PropertyItem Id="51" Len="20"/>
+						<Imaging:PropertyItem Id="97" Len="63"/>
+						<Imaging:PropertyItem Id="39" Len="58"/>
+						<Imaging:PropertyItem Id="80" Len="10"/>
+						<Imaging:PropertyItem Id="84" Len="46"/>
+						<Imaging:PropertyItem Id="44" Len="70"/>
+						<Imaging:PropertyItem Id="28" Len="73"/>
+						<Imaging:PropertyItem Id="49" Len="65"/>
+					</Drawing:Bitmap.PropertyItems>
+					<Drawing:Bitmap.RawFormat>
+						<Imaging:ImageFormat/>
+					</Drawing:Bitmap.RawFormat>
+					<Drawing:Bitmap.Size>
+						<Drawing:Size Height="26" IsEmpty="False" Width="36"/>
+					</Drawing:Bitmap.Size>
+					<Drawing:Bitmap.VerticalResolution>
+						<System:Single/>
+					</Drawing:Bitmap.VerticalResolution>
+				</Drawing:Bitmap>
+			</Core:RealSenseManager.SegBitmap>
+		</Core:RealSenseManager>
+	</Gestures:MainViewModel.Manager>
+	<Gestures:MainViewModel.Sensor>
+		<Core:RealSenseSensor/>
+	</Gestures:MainViewModel.Sensor>
+</Gestures:MainViewModel>

@@ -1,0 +1,39 @@
+﻿<Window x:Class="Gestures.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gestures"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1400" d:DataContext="{d:DesignData /SampleData/MainViewModelSampleData.xaml}">
+    
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="10*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+
+
+
+        <StackPanel Grid.Row="1" VerticalAlignment="Bottom">
+            <Button x:Name="StartButton" Content="Start" Height="200" Click="StartButton_Click" />
+            <Button x:Name="StopButton" Content="Stop" Height="200" VerticalAlignment="Bottom" Click="StopButton_Click" IsEnabled="False"/>
+
+        </StackPanel>
+
+
+        <Image x:Name="ColorImage" Source="{Binding Manager.ColorBitmapSource, Mode=OneWay}" Grid.Column="1" Grid.Row="1" VerticalAlignment="Bottom" HorizontalAlignment="Left" />
+
+
+        <TextBlock x:Name="Message" Grid.Column="1" Text="{Binding Message, Mode=OneWay}"  />
+    </Grid>
+
+
+
+</Window>

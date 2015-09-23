@@ -1,0 +1,128 @@
+﻿<GreenScreen:MainViewModel xmlns:GreenScreen="clr-namespace:GreenScreen" xmlns:Core="clr-namespace:RealSenseWrapper.Core;assembly=RealSenseWrapper.Core" xmlns:Drawing="clr-namespace:System.Drawing;assembly=System.Drawing" xmlns:System="clr-namespace:System;assembly=mscorlib" xmlns:Imaging="clr-namespace:System.Drawing.Imaging;assembly=System.Drawing" xmlns:Model="clr-namespace:RealSenseWrapper.Core.Model;assembly=RealSenseWrapper.Core">
+	<GreenScreen:MainViewModel.Manager>
+		<Core:RealSenseManager>
+			<Core:RealSenseManager.ColorBitmap>
+				<Drawing:Bitmap Flags="24" Height="78" PixelFormat="Format16bppArgb1555" Width="51">
+					<Drawing:Bitmap.FrameDimensionsList>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+					</Drawing:Bitmap.FrameDimensionsList>
+					<Drawing:Bitmap.HorizontalResolution>
+						<System:Single/>
+					</Drawing:Bitmap.HorizontalResolution>
+					<Drawing:Bitmap.PropertyIdList>
+						<System:Int32>55</System:Int32>
+						<System:Int32>65</System:Int32>
+						<System:Int32>85</System:Int32>
+						<System:Int32>66</System:Int32>
+						<System:Int32>92</System:Int32>
+						<System:Int32>69</System:Int32>
+						<System:Int32>21</System:Int32>
+						<System:Int32>61</System:Int32>
+						<System:Int32>80</System:Int32>
+						<System:Int32>98</System:Int32>
+					</Drawing:Bitmap.PropertyIdList>
+					<Drawing:Bitmap.Palette>
+						<Imaging:ColorPalette Flags="49"/>
+					</Drawing:Bitmap.Palette>
+					<Drawing:Bitmap.PhysicalDimension>
+						<Drawing:SizeF IsEmpty="True"/>
+					</Drawing:Bitmap.PhysicalDimension>
+					<Drawing:Bitmap.PropertyItems>
+						<Imaging:PropertyItem Id="62" Len="52"/>
+						<Imaging:PropertyItem Id="54" Len="62"/>
+						<Imaging:PropertyItem Id="67" Len="42"/>
+						<Imaging:PropertyItem Id="61" Len="42"/>
+						<Imaging:PropertyItem Id="90" Len="47"/>
+						<Imaging:PropertyItem Id="41" Len="21"/>
+						<Imaging:PropertyItem Id="34" Len="85"/>
+						<Imaging:PropertyItem Id="62" Len="86"/>
+						<Imaging:PropertyItem Id="20" Len="63"/>
+						<Imaging:PropertyItem Id="96" Len="34"/>
+					</Drawing:Bitmap.PropertyItems>
+					<Drawing:Bitmap.RawFormat>
+						<Imaging:ImageFormat/>
+					</Drawing:Bitmap.RawFormat>
+					<Drawing:Bitmap.Size>
+						<Drawing:Size Height="39" IsEmpty="False" Width="15"/>
+					</Drawing:Bitmap.Size>
+					<Drawing:Bitmap.VerticalResolution>
+						<System:Single/>
+					</Drawing:Bitmap.VerticalResolution>
+				</Drawing:Bitmap>
+			</Core:RealSenseManager.ColorBitmap>
+			<Core:RealSenseManager.HandCursorPosition>
+				<Model:HandCursorPosition/>
+			</Core:RealSenseManager.HandCursorPosition>
+			<Core:RealSenseManager.SegBitmap>
+				<Drawing:Bitmap Flags="41" Height="10" PixelFormat="Gdi" Width="23">
+					<Drawing:Bitmap.FrameDimensionsList>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+						<System:Guid/>
+					</Drawing:Bitmap.FrameDimensionsList>
+					<Drawing:Bitmap.HorizontalResolution>
+						<System:Single/>
+					</Drawing:Bitmap.HorizontalResolution>
+					<Drawing:Bitmap.PropertyIdList>
+						<System:Int32>65</System:Int32>
+						<System:Int32>13</System:Int32>
+						<System:Int32>76</System:Int32>
+						<System:Int32>44</System:Int32>
+						<System:Int32>74</System:Int32>
+						<System:Int32>17</System:Int32>
+						<System:Int32>37</System:Int32>
+						<System:Int32>97</System:Int32>
+						<System:Int32>54</System:Int32>
+						<System:Int32>63</System:Int32>
+					</Drawing:Bitmap.PropertyIdList>
+					<Drawing:Bitmap.Palette>
+						<Imaging:ColorPalette Flags="64"/>
+					</Drawing:Bitmap.Palette>
+					<Drawing:Bitmap.PhysicalDimension>
+						<Drawing:SizeF IsEmpty="True"/>
+					</Drawing:Bitmap.PhysicalDimension>
+					<Drawing:Bitmap.PropertyItems>
+						<Imaging:PropertyItem Id="28" Len="70"/>
+						<Imaging:PropertyItem Id="11" Len="72"/>
+						<Imaging:PropertyItem Id="78" Len="18"/>
+						<Imaging:PropertyItem Id="87" Len="76"/>
+						<Imaging:PropertyItem Id="18" Len="43"/>
+						<Imaging:PropertyItem Id="40" Len="10"/>
+						<Imaging:PropertyItem Id="13" Len="15"/>
+						<Imaging:PropertyItem Id="58" Len="57"/>
+						<Imaging:PropertyItem Id="65" Len="55"/>
+						<Imaging:PropertyItem Id="82" Len="39"/>
+					</Drawing:Bitmap.PropertyItems>
+					<Drawing:Bitmap.RawFormat>
+						<Imaging:ImageFormat/>
+					</Drawing:Bitmap.RawFormat>
+					<Drawing:Bitmap.Size>
+						<Drawing:Size Height="33" IsEmpty="False" Width="26"/>
+					</Drawing:Bitmap.Size>
+					<Drawing:Bitmap.VerticalResolution>
+						<System:Single/>
+					</Drawing:Bitmap.VerticalResolution>
+				</Drawing:Bitmap>
+			</Core:RealSenseManager.SegBitmap>
+		</Core:RealSenseManager>
+	</GreenScreen:MainViewModel.Manager>
+	<GreenScreen:MainViewModel.Sensor>
+		<Core:RealSenseSensor/>
+	</GreenScreen:MainViewModel.Sensor>
+</GreenScreen:MainViewModel>
