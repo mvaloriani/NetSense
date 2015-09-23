@@ -1,0 +1,10 @@
+Samples/RealSense Project/bin/
+Samples/RealSense Project/obj/
+Samples/GreenScreen/bin/
+Samples/GreenScreen/obj/
+Samples/Gestures/bin/Debug/Gestures.exe.config
+Samples/Gestures/bin/Debug/Gestures.vshost.exe.config
+Samples/Gestures/bin/Debug/Gestures.vshost.exe.manifest
+Samples/Gestures/obj/
+packages/NetSense.1.0.4/
+RealSenseWrapper.Core/obj/
