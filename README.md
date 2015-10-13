@@ -17,10 +17,10 @@ In the "ProjectTemplate" folder you find a VS2015 project template, usefull to s
 
 If you want go more on dettail you can find in the Core project all the code of the my implementation.
 
+
 #How to use NetSense
 
 <pre><code>
-
 // Initialize sensor source
 RealSenseSensor sensor = new RealSenseSensor();
 sensor.InitializeColorStrem(RealSenseColorFormat.Color640x480F30);
