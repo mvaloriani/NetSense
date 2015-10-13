@@ -17,3 +17,27 @@ In the "ProjectTemplate" folder you find a VS2015 project template, usefull to s
 
 If you want go more on dettail you can find in the Core project all the code of the my implementation.
 
+#How to use NetSense
+
+<pre><code>
+
+// Initialize sensor source
+RealSenseSensor sensor = new RealSenseSensor();
+sensor.InitializeColorStrem(RealSenseColorFormat.Color640x480F30);
+sensor.InitializeGestureRecognition();
+
+
+// Initialize sensor manager
+RealSenseManager manager = new RealSenseManager(null);
+manager.Initialize(sensor);
+
+
+// Enable streams
+manager.EnableColorStream();
+
+manger.EnableGestureStream();
+manager.GeneralGestureRecognizedRaiseEvent += (object sender, GestureEventArgs e) =>   {
+     Console.WriteLine (e.gestureName + " - " + e.bodySideType)
+}
+
+</code></pre>
